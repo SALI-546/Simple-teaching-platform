@@ -71,7 +71,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <span style={{ color: "#ffa146" }}>mouhamdou salifou</span>
+                <span style={{ color: "#ffa146" }}>mouhamadou salifou</span>
               </a>
             </h3>
           </p>
