@@ -66,12 +66,12 @@ const Footer = () => {
             <h5>Developed By:</h5>
             <h3>
               <a
-                href="https://www.facebook.com/eemam.hhasan/"
+                href="https://web.facebook.com/profile.php?id=61565982038951/"
                 className="text-decoration-none ps-1 text-white"
                 target="_blank"
                 rel="noreferrer"
               >
-                <span style={{ color: "#ffa146" }}>Emam Hasan Bijoy</span>
+                <span style={{ color: "#ffa146" }}>mouhamdou salifou</span>
               </a>
             </h3>
           </p>
